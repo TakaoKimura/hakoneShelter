@@ -42,6 +42,8 @@ group :development, :test do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 
+end
+
   # Google Map API
   gem 'gmaps4rails'
   gem 'geocoder'
@@ -49,8 +51,8 @@ group :development, :test do
 
   # seed-fu
   gem 'seed-fu','~> 2.3'
-
+  
   gem 'pg'
   gem 'rails_12factor'
-end
+  
 
