@@ -51,5 +51,6 @@ group :development, :test do
   gem 'seed-fu','~> 2.3'
 
   gem 'pg'
+  gem 'rails_12factor'
 end
 
